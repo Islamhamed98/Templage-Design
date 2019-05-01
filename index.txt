@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <link  rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <!-- Start Slider -->
+        <div class="slider">
+            <div class="container">
+                <h2 class="my-brand">Start Studio</h2>
+                <ul class="nav-links">
+                    <li><a  style="color:#f39c12;" href="#">Home</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+                <div class="clearfix"></div>
+                <div class="slider-content">
+                    <h3> Welcome To Our Studio </h3>
+                    <h1>IT'S NICE TO MEET YOU</h1>
+                    <button class="btn-content"> Tell Me More</button>
+                </div>
+            </div>
+            </div>
+    <!--   End Slider -->
+    <!-- ==================================================================================================================================== -->
+    <!-- Start Services -->
+            <div class="services">
+                <div class="container">
+                    <div class="ser-content">
+                        <h3>Services</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur.</p>
+                    </div>
+                    <div class="ser-icons">
+                        <div class="icon"> 
+                            <p><i class="fa fa-shopping-cart fa-5x" aria-hidden="true"></i></span></p>
+                            <span>E-Commerce</span>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        </div>
+                        <div class="icon"> 
+                           <p><i class="fa fa-desktop fa-5x" aria-hidden="true"></i></p> 
+                            <span>E-Commerce</span>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        </div>
+                        <div class="icon"> 
+                            <p><i class="fa fa-lock fa-5x" aria-hidden="true"></i></p> 
+                            <span>E-Commerce</span>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        </div>
+                    </div>
+                </div>
+           </div>
+<!-- End Services -->
+<!-- ============================================================================================================================== -->
+<!-- Start Portfolio -->
+           <div class="portfolio">
+                <div class="container">
+                    <div class="content">
+                        <h3>PORTFOLIO</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur.</p>
+                    </div>
+                    <div class="item fitem">
+                        <div class="item-inner">
+                            <span>Round Icons </span> 
+                            <span>Graphic Design</span>
+                        </div>                      
+                    </div>
+                    <div class="item sitem">
+                        <div class="item-inner">
+                            <span>Startup Framework</span> 
+                            <span>Website Design</span>
+                        </div>                         
+                    </div>
+                    <div class="item titem">
+                        <div class="item-inner">
+                            <span>Treehouse</span> 
+                            <span>Website Design</span>
+                        </div>                       
+                    </div>
+                    <div class="item foitem">
+                            <div class="item-inner">
+                                <span>Round Icons </span> 
+                                <span>Graphic Design</span>
+                            </div>                      
+                        </div>
+                        <div class="item fvitem">
+                            <div class="item-inner">
+                                <span>Startup Framework</span> 
+                                <span>Website Design</span>
+                            </div>                         
+                        </div>
+                        <div class="item sxitem">
+                            <div class="item-inner">
+                                <span>Treehouse</span> 
+                                <span>Website Design</span>
+                            </div>                       
+                        </div>
+                </div>
+           </div>
+    <!-- End Portfolio -->
+    <!-- ============================================================================================================================== -->
+    <!-- Start Sections  -->
+           <div class="about">
+                <div class="container">
+                    <div class="about-section">
+                        <h3>my works</h3>
+                        <hr>
+                        <div class="cont">  
+                            <img src="images/audio-audio-mixer-bass-690779.jpg" alt="photo">
+                            <p style="margin-left:50px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more  Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolvedVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>
+                        </div>
+                        <div class="cont">
+                                <p style="margin-right:50px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more  Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolvedVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>
+                                <img src="images/analogue-aperture-business-248519.jpg" alt="photo">
+
+                        </div>
+      
+                        <div class="cont">
+                                <img src="images/studio-light-rainbow-room.jpg" alt="photo">
+                                <p  style="margin-left:50px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more  Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolvedVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>
+                        </div>
+                        <div class="cont">
+                                <p style="margin-right:50px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more  Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolvedVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)..</p>
+                                <img src="images/adult-analogue-aperture-408518.jpg" alt="photo">
+                         </div>
+                    </div>
+                </div>
+           </div> 
+        <!-- End Section -->
+        <!-- ============================================================================================================================== -->
+        <!-- Start Contact Form -->
+           <div class="contact">
+                <div class="container">
+                    <div class="content">
+                        <h2>CONTACT US</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur. </p>
+                    </div>
+                    <div class="form">
+                        <div class="field">
+                            <input type="text" placeholder="Your Name" id="name">
+                        </div>
+                        <div class="field">
+                            <input type="text" placeholder="Your Password" id="name">
+                        </div>
+                        <div class="field">
+                            <input type="text" placeholder="Your Email" id="name">
+                        </div>
+                    </div>
+                    <textarea class="txt"name="text" id="text" rows="2" col="2"></textarea>
+                    <button>Send Message</button>
+              </div>
+           </div>
+        <!-- End Contact Form -->
+        <!-- ============================================================================================================================== -->
+        <!-- Start Footer -->
+           <div class="footer">
+                <div class="container">
+                    <p>Copy Rights  &copy; Reserved By Islam Hamed </p>
+                    <div class="icons">
+                        <i class="fa fa-facebook fa-2x"></i>
+                        <i class="fa fa-twitter fa-2x"></i>
+                        <i class="fa fa-linkedin fa-2x"></i>
+                        <span>12/16/2018</span>
+                    </div>
+            </div>
+           </div>
+        <!-- End Footer --> 
+     </body>
+</html>

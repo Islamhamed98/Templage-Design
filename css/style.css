@@ -1,0 +1,352 @@
+body { 
+    height:4999px;
+}
+.container {
+    width:1200px;
+}
+
+/* Start Header */
+.slider{
+    height: 600px;
+    color:#FFF;
+    background-image: url('../images/hand-with-microphone-on-black-background.jpg');
+    background-size:cover;
+}
+/* Start Our Brand And Navigation Bar */
+.my-brand { 
+    float:left;
+    width:50%;
+    font-family: cursive;
+    font-weight: bold;
+    font-style:italic;
+    color:#f39c12;
+}
+.nav-links { 
+    float:left; 
+    width:45%;
+    margin-top:25px;
+  
+}
+.nav-links > li {
+    float:left;
+    width:92px;
+    list-style:none;
+    color:#f39c12;
+    font-family: Tahoma;
+    font-weight: 600;
+}
+.nav-links li a { 
+    text-decoration: none;
+    color:#FFF;
+    padding:5px;
+}
+.nav-links li a:hover {
+    color:#f39c12;
+}
+.clearfix  {
+    clear: both;
+}
+/* End Our Brand And Navigation Bar */
+
+/* Start Slider Content */
+.slider-content {
+    text-align: center;
+    width:800px;
+    margin-top: 110px;
+    margin-left:160px;
+}
+.slider-content h3 { 
+    font-weight: 500;
+    font-family: cursive;
+    font-size:45px;
+    word-spacing: 2.2px;
+    margin-left:80px;
+}
+.slider-content h1 { 
+    font-family: Arial;
+    font-size:55px;
+    letter-spacing: 2.2px;
+    margin-left:50px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.btn-content {
+    padding:10px;
+    color:#FFF;
+    background-color:#f39c12;
+    border:1px solid #f39c12;
+    width:200px;
+    font-weight: bold;
+    font-size:20px;
+    margin-top:50px;
+    border-radius: 20px;
+    margin-left:50px;
+    font-family: cursive
+}
+/* End Slider Content */
+/* End Slider */
+/*=================================================================================================================================================*/
+/* Start Services */
+.services {
+    padding-top:60px;
+}
+.services .ser-content { 
+    text-align:center;
+}
+.services .ser-content h3 { 
+    font-size:42px;
+    font-weight: bold;
+    font-family: inherit;   
+}
+.services .ser-content p{
+    padding:5px;
+    font-size:20px;
+    color:#888;
+    word-spacing: 2px;
+    font-family: normal;
+}
+
+.services .ser-icons {
+    padding-top:65px;
+}
+.services .ser-icons .icon {
+    width:33.33333%;
+    float:left;
+    text-align:center;
+}
+.services .ser-icons p > i{
+    color:#f39c12;
+}
+.services .ser-icons span { 
+    color: #555;
+    font-weight: bold;
+    font-size:15px;
+    display: inline-block;
+    padding:20px;
+    
+}
+.services .ser-icons p { 
+    color: #999;
+    line-height:1.7;
+    padding-top:5px;
+    font-family:sans-serif;
+}
+/* End Services */
+/*=================================================================================================================================================*/
+/* Start Portfolio */
+.portfolio { 
+    height:1250px;
+    margin-top:100px;
+    padding-top:100px;
+    background-color:#eee;
+}
+.portfolio .content  { 
+    text-align:center;    
+}
+.portfolio .content h3 {
+    font-family: sans-serif;
+    font-size:35px;
+    font-weight: bold;
+}
+.portfolio .content p{
+    color:#888;
+    font-size:18px;
+    word-spacing: 3px;
+    padding-top:5px;
+    font-family: Arial;
+}
+
+.portfolio .item { 
+    padding-top:50px;
+    width:30.33333%;
+    float:left;
+    background-size:cover;
+    height: 350px;
+    margin-left:10px;
+    position:relative;
+    margin-top:80px;
+    cursor: pointer;
+    margin-left:30px;
+}
+.portfolio .fitem{
+    background-image:url('../images/studio-light-rainbow-room.jpg')
+}
+.portfolio .sitem {
+    background-image:url('../images/audio-mix-mixing-board.jpg')
+}
+.portfolio .titem {
+    background-image:url('../images/mobile-phone-computer-rock-and-potted-plant-on-table.jpg')
+}
+.portfolio .foitem {
+    background-image:url('../images/action-analogue-aperture-1251299.jpg');
+}
+.portfolio .fvitem {
+    background-image:url('../images/africa-angry-animal-1106452.jpg');
+}
+
+.portfolio .sxitem {
+    background-image:url('../images/adult-analogue-aperture-408518.jpg');
+}
+.portfolio .item .item-inner{
+    background-color:#FFF;
+    position: absolute;
+    width:100%;
+    bottom:0;
+    height: 100px;
+    text-align: center;
+}
+
+.portfolio .item span:nth-child(1) { 
+    display:block;
+    color:#333;
+    font-size:25px;
+    font-weight: bold;
+    padding-top:20px;
+}
+.portfolio .item span:nth-child(2) { 
+    display:block;
+    font-size:15px;
+    color:#666;
+    font-family: inherit;
+}
+
+/* End Portfolio */
+/*=================================================================================================================================================*/
+/* Start About Section */
+.about {
+    height:1600px;
+    margin-top:80px;
+}
+.about-section > h3{
+    text-align:center;
+    font-size:40px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+.about-section > hr {
+    width:100px;
+    border:1.2px solid #CCC;
+    margin-bottom:70px;
+    margin-top:25px;
+}
+.about .cont {
+    height: 370px;
+}
+.about img {
+    height: 300px;
+    width:50%;
+    float:left;
+    border:4px solid #CCC;
+    border-radius:20px;
+}
+.about p {
+    float:left;
+    width:45%;
+    font-size:15px;
+    font-family: sans-serif;
+    color:#888;
+ 
+   font-style:italic;
+
+}
+/* End About Section */
+/*=================================================================================================================================================*/
+/* Start Contact Form */
+.contact {
+    height: 730px;
+    padding-top:80px;
+    margin-top:60px;
+    color:#FFF;
+    background-image: url('../images/atlas-close-up-dardk-592753.jpg');
+    background-size:cover;
+ 
+}
+.contact .content {
+    text-align:center;
+}
+.contact .content h2 {
+    font-size:45px;
+}
+.contact .content p {
+    font-size:21px;
+    padding-top:15px;
+}
+
+.contact .form  {
+    padding-top:50px;
+   float:left;
+}
+.contact .form .field input {
+    width:500px;
+    margin-top:40px;
+    padding:10px;
+color:#000;
+}
+.contact .txt {
+    float:left;
+    width:500px;
+    margin-left:100px;
+    margin-top:90px;
+    height: 211px;
+    color:#000;
+    background-color:#fff;
+}
+.contact  button {
+    padding:13px;
+    color:#FFF;
+    background-color:#f39c12;
+    border:1px solid #f39c12;
+    width:270px;
+    font-weight: bold;
+    font-size:23px;
+    margin-top:50px;
+    border-radius: 20px;
+    font-family: cursive;
+    margin-top:75px; 
+    margin-left:-50px;
+}
+/* End Contact Section */
+/*=================================================================================================================================================*/
+/* Start Footer */
+ .footer {
+     height:100px;
+     background-color:#FFF;
+     color:#333;
+ }
+ .footer p { 
+     margin-top:30px;
+     color:#333;
+     float:left;
+     width:40%;
+    font-family: sans-serif;
+    font-weight: bold;
+    }
+ .footer .icons {
+    float:left;
+    margin-top:30px;
+    width:60%;
+}
+
+.footer .icons i{
+    background-color:#333;
+    color:#FFF;
+    width:50px;
+    height: 50px;
+    border-radius:50%;
+    padding:15px;
+    text-align:center;
+    margin-top:-12px;
+    padding-top:11px;
+    padding-right: 18px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.footer .icons span {
+    margin-left:560px;
+    color:#333;
+    font-weight: bold;
+    display: block;
+    margin-top:-33px
+}
+
+/* End Footer */
